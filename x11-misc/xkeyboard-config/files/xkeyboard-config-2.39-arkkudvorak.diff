@@ -1,3 +1,6 @@
+# Adds arkkudvorak as an option to finnish xkb options.
+# Can be accessed by setxkbmap fi -option arkkudvorak
+
 diff --git a/symbols/fi b/symbols/fi
 index 1528b7e3..271a8f7c 100644
 --- a/symbols/fi
