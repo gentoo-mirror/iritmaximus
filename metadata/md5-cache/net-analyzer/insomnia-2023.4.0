@@ -1,4 +1,4 @@
-DEFINED_PHASES=configure install unpack
+DEFINED_PHASES=install unpack
 DESCRIPTION=Insomnia RESTful API tester
 EAPI=8
 HOMEPAGE=https://github.com/Kong/insomnia
@@ -6,4 +6,4 @@ KEYWORDS=~amd64
 LICENSE=GPL-2+
 SLOT=0
 SRC_URI=https://github.com/Kong/insomnia/releases/download/core@2023.4.0/Insomnia.Core-2023.4.0.tar.gz
-_md5_=8553da94796f77717151b2ffb90b16c2
+_md5_=6edb9125242e3d50d3d4b993b42de4f1
